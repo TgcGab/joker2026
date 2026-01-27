@@ -3,7 +3,7 @@
   <img src="../img/joker.png" width="120" height="142">
 </p>
 
-{% ../_includes/navbar.md %}
+{% include navbar.md %}
 
 <br>
   <h1 align="center">CLEF 2026 JOKER Track:</h1>
