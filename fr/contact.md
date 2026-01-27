@@ -3,7 +3,7 @@
   <img src="../img/joker.png" width="120" height="142">
 </p>
 
-{% include navbar.md %}
+{% include navbar_fr.md %}
 
 ## Contactez-nous via :
 <br>
