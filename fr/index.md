@@ -4,7 +4,7 @@
   <img src="../img/joker.png" width="120" height="142">
 </p>
 
-{% include navbar.md %}
+{% include navbar_fr.md %}
 
  <h1 align="center">CLEF 2026 JOKER Piste</h1>
  <h2 align="center">Détection, recherche et traduction de l'humour</h2>
