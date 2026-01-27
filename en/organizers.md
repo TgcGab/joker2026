@@ -3,7 +3,7 @@
   <img src="./../img/joker.png" width="120" height="142">
 </p>
 
-{% include navbar.md %}
+{% include navbar_en.md %}
 
 ## Organizers: 
 * **[Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana) (Université de Bretagne Occidentale, Brest, France)**
